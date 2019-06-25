@@ -1,0 +1,11 @@
+git init
+git add .
+git commit -m "Hello"//msg
+git remote add origin "...........path......."
+git commit -m "Hello"//msg
+git push -u origin master
+
+
+---done
+
+git clone ---------copy repository path-------
